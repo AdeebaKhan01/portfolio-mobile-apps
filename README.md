@@ -27,12 +27,8 @@ Clean Architecture
 TODO: Add pictures
 
 ### Tools and Technologies:
-- [Kotlin](https://kotlinlang.org/)
-- [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- [Hilt](https://dagger.dev/hilt/)
-- [Dagger](https://dagger.dev/)
-- [Room](https://developer.android.com/training/data-storage/room)
-- [Android Studio](https://developer.android.com/studio)
+- [Kotlin](https://kotlinlang.org/) - [Jetpack Compose](https://developer.android.com/jetpack/compose) - [Hilt](https://dagger.dev/hilt/)
+- [Dagger](https://dagger.dev/) - [Room](https://developer.android.com/training/data-storage/room) - [Android Studio](https://developer.android.com/studio)
 
 ## 2. Loofers
 #### Description
