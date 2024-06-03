@@ -26,6 +26,7 @@ Clean Architecture
 ### Preview:
 **Authentication & Home**
 
+(TODO): Will add proper preview/mock-ups
 <img width="150" alt="Screenshot 2024-05-23 at 11 45 00 AM" src="https://github.com/AdeebaKhan01/portfolio-mobile-apps/assets/135405122/3f4f2e53-f8f2-4095-a8da-ec96510e9ccc">
 <img width="328" alt="Screenshot 2024-05-23 at 11 45 34 AM" src="https://github.com/AdeebaKhan01/portfolio-mobile-apps/assets/135405122/5fcb3687-b6ef-4e05-8fa4-b579920781e9">
 <img width="333" alt="Screenshot 2024-05-23 at 11 46 58 AM" src="https://github.com/AdeebaKhan01/portfolio-mobile-apps/assets/135405122/687e4f7b-3923-461c-bf48-6e7870ddd95b">
