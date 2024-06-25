@@ -22,7 +22,7 @@ This repository contains the previews and description of all the projects I have
 
 | #2: Loofers     |        |
 |-----------------|--------|
-| `Loofers` is an exciting and innovative app where users can purchase tickets for the chance to win amazing prizes from a variety of categories such as tech, sport, travels, fashion and gift cards etc. By participating in engaging games, users can earn scores which contribute to a lucky draw. <br> <br> - Clean Architecture <br> - Localization Support (en, da) <br> - 2D Games: Whack-A-Loof, Loofer Copter <br> - MitID Authentication ([read more here](https://www.mitid.dk/en-gb/)) <br> - Secure Payment integration (Bambora) <br> - Firebase for App Distribution (CI/CD) | Logo here |
+| `Loofers` is an exciting and innovative app where users can purchase tickets for the chance to win amazing prizes from a variety of categories such as tech, sport, travels, fashion and gift cards etc. By participating in engaging games, users can earn scores which contribute to a lucky draw. <br> <br> - Clean Architecture <br> - Localization Support (en, da) <br> - 2D Games: Whack-A-Loof, Loofer Copter <br> - MitID Authentication ([read more here](https://www.mitid.dk/en-gb/)) <br> - Secure Payment integration (Bambora) <br> - Firebase for App Distribution (CI/CD) | <img width="250" alt="Logo" src="https://github.com/AdeebaKhan01/portfolio-mobile-apps/assets/135405122/d6cdde9b-227f-40b7-bfe5-0eafeafdfecb"> |
 
 ### Tools and Technologies:
 - [Kotlin](https://kotlinlang.org/) - [Jetpack Compose](https://developer.android.com/jetpack/compose) - [Hilt](https://dagger.dev/hilt/)
@@ -33,11 +33,16 @@ This repository contains the previews and description of all the projects I have
 ### Preview
 
 > Main Features
+<img width="700" alt="Main Features" src="https://github.com/AdeebaKhan01/portfolio-mobile-apps/assets/135405122/a4e2bc7b-e1f5-4d93-9d40-0840024b924a">
 
-> Games 
+> Games
+<img width="700" alt="Main Features" src="https://github.com/AdeebaKhan01/portfolio-mobile-apps/assets/135405122/685317e0-52d0-4530-899e-1be383a6d8ee">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>   
 
 # Coming Soon
+> Note: These apps are under development.
+
 ### 3. KMP - Kotlin Multiplatform
 
 ### 4. Running Tracker App
